@@ -1,8 +1,8 @@
-# Udacity-Project-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
+# Use a Pre-trained Image Classifier to Identify Dog Breeds
 This is my first project on Machine Learning with the help of Udacity where I use various architectures like VGG, RESNet, and Alexnet to identify and classify dogs and dog breeds. 
 
 # Description:
-Your city is hosting a citywide dog show and you have volunteered to help the organizing committee with contestant registration. Every participant that registers must submit an image of their dog along with biographical information about their dog. The registration system tags the images based upon the biographical information.
+Your city is hosting a citywide dog show and you have volunteered to help the organizing committee with contestant registration. Every participant that registers must submit an image of their dog along with biographical information about their dog. The registration system tags the images based on the biographical information.
 Some people are planning on registering pets that aren’t actual dogs.
 
 # Project Tasks:
